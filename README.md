@@ -1,0 +1,1 @@
+# apm-java-buildpack-3.6
